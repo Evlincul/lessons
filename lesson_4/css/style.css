@@ -1,0 +1,91 @@
+@import url("reset.css");
+
+
+* {
+   background-color: #CEEFD2;
+}
+
+mark {
+   background-color: rgb(177, 213, 177);
+}
+
+mark {
+   color: rgb(81, 129, 95);
+}
+
+span {
+   color: rgb(97, 126, 92);
+}
+
+.link {
+   color: rgb(113, 137, 109);
+}
+
+
+.list {
+   color: rgb(130, 98, 98);
+}
+
+[class*="_block2"] {
+   color: rgb(122, 122, 122);
+}
+
+[class*="_block1"] {
+   color: rgb(101, 171, 103);
+}
+
+#story {
+   color: rgb(143, 172, 122);
+}
+
+#production {
+   color: rgb(80, 117, 82);
+}
+
+h2.title {
+   color: rgb(125, 159, 113);
+}
+
+div.text_block4 {
+   color: rgb(88, 193, 94);
+}
+
+.link.list {
+   color: rgb(78, 112, 96);
+}
+
+.title,
+.link {
+   color: rgb(116, 104, 89);
+}
+
+.text_block2 p {
+   color: rgb(106, 86, 74);
+}
+
+.list ol {
+   color: rgb(76, 78, 109);
+}
+
+.block .title {
+   color: rgb(103, 192, 95);
+}
+
+
+.block2 * {
+   color: rgb(83, 146, 103);
+}
+
+.text_block3>p {
+   color: rgb(97, 165, 83);
+}
+
+
+.text_block4~p {
+   color: rgb(131, 196, 148);
+}
+
+
+.text_block4+p {
+   color: rgb(59, 179, 143);
+}
