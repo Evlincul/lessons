@@ -1,0 +1,78 @@
+@import url("fonts.css");
+
+@import url("reset.css");
+
+
+body {
+   font-family: "Inter", sans-serif;
+   color: #7D7D7D;
+   font-size: 18px;
+   font-style: normal;
+   text-align: justify;
+   line-height: 1.46187;
+}
+
+h1,
+h2 {
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   color: #37393F;
+   font-size: 30px;
+   line-height: 1.27;
+   text-transform: capitalize;
+}
+
+.sub-title h2 {
+   color: #6B77E5;
+   font-size: 20px;
+   text-transform: none;
+}
+
+
+
+.title-2 h2 {
+   font-weight: 700;
+   font-size: 40px;
+}
+
+ol,
+ul {
+   font-weight: 500;
+}
+
+footer {
+   font-family: "NeverMindHandwriting", fantasy;
+   font-weight: normal;
+   text-indent: 15px;
+
+}
+
+h3 {
+   font-weight: 300;
+   text-decoration: underline;
+   color: #8991da;
+   text-align: center;
+   text-shadow: 9px 9px 5px #7275ca, -7px -7px 5px #4c4f91;
+   line-height: 127%;
+   text-transform: uppercase;
+   letter-spacing: 5px;
+   font-style: italic;
+}
+
+span {
+   text-decoration: line-through;
+   color: rgba(72, 37, 148, 0.507);
+}
+
+.text-lorem-4 {
+   white-space: nowrap;
+   text-decoration: overline;
+}
+
+.text-lorem-2 {
+   word-spacing: 18px;
+}
+
+.text-lorem-1 {
+   font-style: oblique;
+}
