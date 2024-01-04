@@ -4,7 +4,7 @@
 /*----------------style---------------*/
 body {
    font-family: inter;
-   font-weight: regular;
+   font-weight: 400;
 }
 
 .title,
@@ -76,7 +76,7 @@ main {
 
 .sub-title-5 {
    font-family: DM Serif Text;
-   font-weight: regular;
+   font-weight: 400;
    color: #0E333D;
    font-size: 59px;
    line-height: 146.5%;
