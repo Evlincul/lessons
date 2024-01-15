@@ -1,0 +1,245 @@
+@import url(fonts.css);
+@import url(reset.css);
+
+/*------------------------------------------*/
+body {
+   font-family: Inter, sans-serif;
+   font-weight: 400;
+   color: #7D7D7D;
+   font-size: 18px;
+   padding: 0 15px;
+}
+
+/*--------------------------------consultingwebsitetemplate-block-------------------------*/
+.consultingwebsitetemplate-block {
+   margin: 0 auto;
+   max-width: 1248px;
+   margin: 20px 0;
+   margin-bottom: 60px;
+}
+
+
+h5 {
+   margin-bottom: 16px;
+}
+
+.photography-block,
+.icons-block {
+   margin-bottom: 100px;
+}
+
+.c-sub-title {
+   margin-bottom: 11px;
+}
+
+.c-block-1,
+.c-block {
+   margin-bottom: 24px;
+}
+
+/*--------------------style------------------*/
+.consultingwebsitetemplate-block {
+   line-height: 146.187%;
+}
+
+.title,
+.c-sub-title,
+.c-sub-sub-title {
+   font-family: Poppins, sans-serif;
+   color: #37393F;
+   font-weight: 700;
+   line-height: 121%;
+}
+
+
+.title {
+   font-size: 60px;
+   text-align: center;
+   margin-bottom: 70px;
+}
+
+.c-sub-title {
+   font-size: 40px;
+   font-weight: 700;
+}
+
+.c-sub-sub-title {
+   font-size: 30px;
+   font-weight: 700;
+   line-height: normal;
+}
+
+span {
+   color: #40DDB6;
+   font-weight: 400;
+}
+
+.color-text {
+   color: #40DDB6;
+}
+
+h5 {
+   color: #37393F;
+   font-family: Inter, sans-serif;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: normal;
+   text-align: center;
+}
+
+.rectangle {
+   width: 12px;
+   height: 12px;
+   display: inline-block;
+   color: #40DDB6;
+}
+
+/*-----------------------project-inf-------------------------------*/
+.projectinformation {
+   max-width: 860px;
+   margin: 0 auto;
+   line-height: 146.187%;
+}
+
+.p-title {
+   color: #37393F;
+   font-family: Poppins, sans-serif;
+   font-size: 40px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: 127%;
+   margin-bottom: 13px;
+}
+
+.ul-list {
+   list-style-type: disc;
+}
+
+li {
+   margin-bottom: 35px;
+}
+
+.list-1,
+.list-2 {
+   font-weight: 500;
+   padding-left: 16px;
+   margin-bottom: 35px;
+}
+
+.list-1 {
+   padding-left: 35px;
+}
+
+
+.p-text {
+   margin-bottom: 35px;
+}
+
+.p-text .p-p-text {
+   margin-bottom: 50px;
+}
+
+/*-------------------------------euphoriaecommerce--------------------*/
+.euphoriaecommerce {
+   max-width: 1270px;
+   margin: 0 auto;
+   color: #807D7E;
+   font-family: Causten, sans-serif;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 33.5px;
+   margin-bottom: 50px;
+}
+
+.e-title,
+.e-sub-title,
+.e-link {
+   font-family: "CoreSansC", sans-serif;
+   font-weight: 700;
+   font-style: normal;
+}
+
+.e-title {
+   color: #3C4242;
+   font-size: 28px;
+   margin-bottom: 30px;
+}
+
+.e-sub-title,
+.e-link {
+   color: #807D7E;
+   font-size: 20px;
+}
+
+.e-sub-title {
+   margin: 25px 0;
+}
+
+.e-text {
+   margin-bottom: 20px;
+}
+
+mark {
+   background-color: #fff;
+   color: #807D7E;
+   font-weight: 700;
+}
+
+
+/*-----------------------jewellery------------------------*/
+
+.jewellery {
+   max-width: 1600px;
+   margin: 0 auto;
+   font-family: "Cormorantn Infant";
+   font-weight: 700;
+}
+
+h4 {
+   color: #D58417;
+   font-size: 20px;
+   line-height: 20px;
+   margin-bottom: 27px;
+}
+
+.j-title {
+   color: #000;
+   font-size: 64px;
+   line-height: 64px;
+   margin-bottom: 31px;
+}
+
+.j-text {
+   color: #606060;
+   font-size: 30px;
+   line-height: 42px;
+   font-family: "Cormorant Infant";
+}
+
+.j-text-block {
+   max-width: 503px;
+   display: inline-block;
+   vertical-align: middle;
+   margin-right: 75px;
+   padding-left: 35px;
+}
+
+.image {
+   max-width: 1097px;
+   display: inline-block;
+}
+
+.image-1 {
+   width: 177px;
+   height: 336px;
+   vertical-align: middle;
+   margin-right: 30px;
+   border-radius: 235px;
+}
+
+.image-2 {
+   width: 307px;
+   height: 500px;
+   vertical-align: middle;
+   border-radius: 235px;
+}
